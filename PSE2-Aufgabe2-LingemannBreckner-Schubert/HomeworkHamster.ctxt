@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=HomeworkHamster
+comment0.text=\r\n\ Der\ Hamster\ Paule\ l\u00E4uft\ von\ Korn\ zu\ Korn,\ sammelt\ diese\ ein\ und\ legt\ \r\n\ sie\ am\ Ende\ in\ die\ Hamsterh\u00F6hle.\ Nach\ jedem\ Einsammeln\ und\ Ablegen\ eines\ \r\n\ Korns,\ gibt\ er\ die\ Anzahl\ der\ K\u00F6rner\ in\ seinem\ Mund\ aus.\r\n\ \r\n\ @author\ Kim\ Lingemann\ \r\n\ \ \ \ \ \ \ \ \ 3380756\ \r\n\ \ \ \ \ \ \ \ \ st160814@stud.uni-stuttgart.de\r\n\ \ \ \ \ \ \ \ \ Sarah\ Breckner\ \r\n\ \ \ \ \ \ \ \ \ 3425446\r\n\ \ \ \ \ \ \ \ \ st163632@stud.uni-stuttgart.de\r\n\ @version\ 09.11.18\r\n
+comment1.params=
+comment1.target=void\ turnRight()
+comment1.text=\r\n\ Paule\ dreht\ sich\ nach\ rechts\r\n
+comment2.params=
+comment2.target=void\ pickGrainAndCount()
+comment2.text=\r\n\ Paule\ sammelt\ ein\ Korn\ und\ die\ um\ eins\ gr\u00F6\u00DFere\ Anzahl\ der\ K\u00F6rner\ in\ seinem\ Mund\ \r\n\ wird\ gespeichert,\ dann\ gibt\ er\ diese\ aus.\r\n
+comment3.params=
+comment3.target=void\ putGrainAndCount()
+comment3.text=\r\n\ Paule\ legt\ ein\ Korn\ ab\ und\ die\ um\ eins\ kleinere\ Anzahl\ der\ K\u00F6rner\ in\ seinem\ Mund\ \r\n\ wird\ gespeichert,\ dann\ gibt\ er\ diese\ aus.\r\n
+comment4.params=
+comment4.target=void\ run()
+comment4.text=\r\n\ Verwirrter\ Paule\!\r\n\ Helfe\ Paule\ um\ durch\ das\ Territorium\ zu\ laufen\ und\ alle\ K\u00F6rner\ in\ seine\ H\u00F6hle\ zu\ bringen\r\n\ Dabei\ soll\ Paule\ alle\ K\u00F6rner\ auf\ dem\ Feld\ aufsammeln\ und\ sie\ in\ seiner\ H\u00F6hle\ (rechts\ unten\r\n\ -\ Spalte\ 6\ *\ Zeile\ 4\ bei\ 0\ beginnend)\ wieder\ ablegen.\ \r\n
+numComments=5

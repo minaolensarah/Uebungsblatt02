@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=HomeworkHamsterGame
+comment0.text=\r\n\ Beschreiben\ Sie\ hier\ die\ Klasse\ MyFirstSimpleHamster.\r\n\ \r\n\ @author\ Kim\ Lingemann\ (3380756)\ Sarah\ Breckner\ (3425446)\r\n\ @version\ 05.11.18\r\n
+comment1.params=
+comment1.target=HomeworkHamsterGame()
+comment2.params=
+comment2.target=void\ testPaulesSkills()
+comment3.params=
+comment3.target=void\ testAllGrainsInCave()
+numComments=4
